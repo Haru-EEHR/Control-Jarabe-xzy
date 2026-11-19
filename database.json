@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "inca-kola",
+    "nombre": "Inca Kola",
+    "relacion_agua_jarabe": "5.4/1",
+    "tipo_jarabe": "Pungente",
+    "brix": {
+      "min": 52.9,
+      "nom": 53.1,
+      "max": 53.3
+    },
+    "acidez_citrica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "gasto_soda": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "volumen_final": 750.08,
+    "peso_jarabe_sensorial": 57.6,
+    "peso_agua_sensorial": 249.3,
+    "peso_acidez_citrica": 12.46
+  },
+  {
+    "id": "inca-kola-rf-20",
+    "nombre": "Inca Kola - RF 2.0",
+    "relacion_agua_jarabe": "5.4/1",
+    "tipo_jarabe": "Pungente",
+    "brix": {
+      "min": 26.77,
+      "nom": 26.97,
+      "max": 27.17
+    },
+    "acidez_citrica": {
+      "min": 0.694,
+      "nom": 0.711,
+      "max": 0.729
+    },
+    "gasto_soda": {
+      "min": 10.84,
+      "nom": 11.11,
+      "max": 11.39
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.9,
+      "nom": 3.1,
+      "max": 3.3
+    },
+    "volumen_final": 749.5,
+    "peso_jarabe_sensorial": 51.4,
+    "peso_agua_sensorial": 249.0,
+    "peso_acidez_citrica": 11.12
+  },
+  {
+    "id": "inca-kola-sin-azucar",
+    "nombre": "Inca Kola Sin Azúcar",
+    "relacion_agua_jarabe": "5.4/1",
+    "tipo_jarabe": "Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": 0.719,
+      "nom": 0.737,
+      "max": 0.756
+    },
+    "gasto_soda": {
+      "min": 11.23,
+      "nom": 11.52,
+      "max": 11.81
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "volumen_final": 741.9,
+    "peso_jarabe_sensorial": 46.3,
+    "peso_agua_sensorial": 249.0,
+    "peso_acidez_citrica": 10.01
+  },
+  {
+    "id": "coca-cola",
+    "nombre": "Coca Cola",
+    "relacion_agua_jarabe": "5.4/1",
+    "tipo_jarabe": "No Pungente",
+    "brix": {
+      "min": 54.65,
+      "nom": 54.85,
+      "max": 55.05
+    },
+    "acidez_citrica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "gasto_soda": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": 95.0,
+      "nom": 100.0,
+      "max": 105.0
+    },
+    "ph": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "volumen_final": 305.56,
+    "peso_jarabe_sensorial": 58.1,
+    "peso_agua_sensorial": 249.0,
+    "peso_acidez_citrica": null
+  },
+  {
+    "id": "coca-cola-rf",
+    "nombre": "Coca Cola - RF",
+    "relacion_agua_jarabe": "5.4/1",
+    "tipo_jarabe": "No Pungente",
+    "brix": {
+      "min": 40.87,
+      "nom": 41.07,
+      "max": 41.27
+    },
+    "acidez_citrica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "gasto_soda": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": 95.0,
+      "nom": 100.0,
+      "max": 105.0
+    },
+    "ph": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "volumen_final": 300.0,
+    "peso_jarabe_sensorial": 58.1,
+    "peso_agua_sensorial": 249.0,
+    "peso_acidez_citrica": null
+  },
+  {
+    "id": "coca-cola-sin-azucar",
+    "nombre": "Coca Cola Sin Azúcar",
+    "relacion_agua_jarabe": "5.4/1",
+    "tipo_jarabe": "No Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "gasto_soda": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": 95.0,
+      "nom": 100.0,
+      "max": 105.0
+    },
+    "ph": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "volumen_final": 304.69,
+    "peso_jarabe_sensorial": 46.4,
+    "peso_agua_sensorial": 249.0,
+    "peso_acidez_citrica": null
+  },
+  {
+    "id": "fanta-naranja-rf",
+    "nombre": "Fanta Naranja - RF",
+    "relacion_agua_jarabe": "4.4/1",
+    "tipo_jarabe": "No Pungente",
+    "brix": {
+      "min": 24.54,
+      "nom": 24.69,
+      "max": 24.84
+    },
+    "acidez_citrica": {
+      "min": 1.142,
+      "nom": 1.172,
+      "max": 1.201
+    },
+    "gasto_soda": {
+      "min": 17.84,
+      "nom": 18.31,
+      "max": 18.77
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "volumen_final": 370.45,
+    "peso_jarabe_sensorial": 60.36,
+    "peso_agua_sensorial": 240.5,
+    "peso_acidez_citrica": 11.01
+  },
+  {
+    "id": "fanta-kola-inglesa",
+    "nombre": "Fanta Kola inglesa",
+    "relacion_agua_jarabe": "5.0/1",
+    "tipo_jarabe": "Pungente",
+    "brix": {
+      "min": 25.82,
+      "nom": 26.02,
+      "max": 26.22
+    },
+    "acidez_citrica": {
+      "min": 0.819,
+      "nom": 0.84,
+      "max": 0.861
+    },
+    "gasto_soda": {
+      "min": 12.8,
+      "nom": 13.13,
+      "max": 13.45
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.5,
+      "nom": 2.7,
+      "max": 2.9
+    },
+    "volumen_final": 333.4,
+    "peso_jarabe_sensorial": 54.62,
+    "peso_agua_sensorial": 245.97,
+    "peso_acidez_citrica": 11.07
+  },
+  {
+    "id": "fanta-manzana",
+    "nombre": "Fanta Manzana",
+    "relacion_agua_jarabe": "4.4/1",
+    "tipo_jarabe": "Pungente",
+    "brix": {
+      "min": 23.35,
+      "nom": 23.5,
+      "max": 23.65
+    },
+    "acidez_citrica": {
+      "min": 0.632,
+      "nom": 0.648,
+      "max": 0.664
+    },
+    "gasto_soda": {
+      "min": 9.88,
+      "nom": 10.13,
+      "max": 10.38
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.5,
+      "nom": 2.7,
+      "max": 2.9
+    },
+    "volumen_final": 370.43,
+    "peso_jarabe_sensorial": 55.67,
+    "peso_agua_sensorial": 240.5,
+    "peso_acidez_citrica": 10.95
+  },
+  {
+    "id": "fanta-uva",
+    "nombre": "Fanta Uva",
+    "relacion_agua_jarabe": "4.0/1",
+    "tipo_jarabe": "No Sensible, Pungente",
+    "brix": {
+      "min": 40.4,
+      "nom": 40.6,
+      "max": 40.8
+    },
+    "acidez_citrica": {
+      "min": 0.424,
+      "nom": 0.435,
+      "max": 0.446
+    },
+    "gasto_soda": {
+      "min": 6.63,
+      "nom": 6.8,
+      "max": 6.97
+    },
+    "densidad": {
+      "min": 1.1785,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.7,
+      "nom": 2.9,
+      "max": 3.1
+    },
+    "volumen_final": 400.23,
+    "peso_jarabe_sensorial": 69.77,
+    "peso_agua_sensorial": 236.13,
+    "peso_acidez_citrica": 11.79
+  },
+  {
+    "id": "sprite-rf",
+    "nombre": "Sprite - RF",
+    "relacion_agua_jarabe": "5.4/1",
+    "tipo_jarabe": "No Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": 1.362,
+      "nom": 1.396,
+      "max": 1.431
+    },
+    "gasto_soda": {
+      "min": 21.28,
+      "nom": 21.81,
+      "max": 22.36
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.7,
+      "nom": 2.9,
+      "max": 3.1
+    },
+    "volumen_final": 312.5,
+    "peso_jarabe_sensorial": 46.5,
+    "peso_agua_sensorial": 249.0,
+    "peso_acidez_citrica": 10.0
+  },
+  {
+    "id": "crush-naranja",
+    "nombre": "Crush Naranja",
+    "relacion_agua_jarabe": "4.0/1",
+    "tipo_jarabe": "No Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": 0.805,
+      "nom": 0.826,
+      "max": 0.846
+    },
+    "gasto_soda": {
+      "min": 12.58,
+      "nom": 12.91,
+      "max": 13.22
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 3.1,
+      "nom": 3.3,
+      "max": 3.5
+    },
+    "volumen_final": 3382.01,
+    "peso_jarabe_sensorial": 59.42,
+    "peso_agua_sensorial": 236.0,
+    "peso_acidez_citrica": 10.03
+  },
+  {
+    "id": "schweppes-ginger-ale",
+    "nombre": "Schweppes Ginger Ale",
+    "relacion_agua_jarabe": "5.4/1",
+    "tipo_jarabe": "No Pungente",
+    "brix": {
+      "min": 26.15,
+      "nom": 26.35,
+      "max": 26.55
+    },
+    "acidez_citrica": {
+      "min": 0.814,
+      "nom": 0.835,
+      "max": 0.856
+    },
+    "gasto_soda": {
+      "min": 12.72,
+      "nom": 13.05,
+      "max": 13.38
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.7,
+      "nom": 2.9,
+      "max": 3.1
+    },
+    "volumen_final": 346.56,
+    "peso_jarabe_sensorial": 51.28,
+    "peso_agua_sensorial": 249.04,
+    "peso_acidez_citrica": 11.09
+  },
+  {
+    "id": "schweppes-citrus",
+    "nombre": "Schweppes Citrus",
+    "relacion_agua_jarabe": "4.4/1",
+    "tipo_jarabe": "No Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": 1.99,
+      "nom": 2.041,
+      "max": 2.093
+    },
+    "gasto_soda": {
+      "min": 31.09,
+      "nom": 31.89,
+      "max": 32.7
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.2,
+      "nom": 2.4,
+      "max": 2.6
+    },
+    "volumen_final": 370.37,
+    "peso_jarabe_sensorial": 55.21,
+    "peso_agua_sensorial": 240.5,
+    "peso_acidez_citrica": 10.07
+  },
+  {
+    "id": "powerade-mora-azul-rf",
+    "nombre": "Powerade Mora Azul - RF",
+    "relacion_agua_jarabe": "3.0/1",
+    "tipo_jarabe": "No Pungente",
+    "brix": {
+      "min": 15.68,
+      "nom": 15.88,
+      "max": 16.08
+    },
+    "acidez_citrica": {
+      "min": 0.762,
+      "nom": 0.782,
+      "max": 0.801
+    },
+    "gasto_soda": {
+      "min": 11.91,
+      "nom": 12.22,
+      "max": 12.52
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.9,
+      "nom": 3.1,
+      "max": 3.3
+    },
+    "volumen_final": 811.82,
+    "peso_jarabe_sensorial": 78.58,
+    "peso_agua_sensorial": 221.37,
+    "peso_acidez_citrica": 10.62
+  },
+  {
+    "id": "powerade-multifrutas",
+    "nombre": "Powerade Multifrutas",
+    "relacion_agua_jarabe": "3.5/1",
+    "tipo_jarabe": "No Pungente",
+    "brix": {
+      "min": 20.48,
+      "nom": 20.68,
+      "max": 20.88
+    },
+    "acidez_citrica": {
+      "min": 1.082,
+      "nom": 1.11,
+      "max": 1.137
+    },
+    "gasto_soda": {
+      "min": 16.91,
+      "nom": 17.34,
+      "max": 17.77
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.5,
+      "nom": 2.7,
+      "max": 2.9
+    },
+    "volumen_final": 444.51,
+    "peso_jarabe_sensorial": 66.86,
+    "peso_agua_sensorial": 229.6,
+    "peso_acidez_citrica": 10.83
+  },
+  {
+    "id": "powerade-limon",
+    "nombre": "Powerade Limón",
+    "relacion_agua_jarabe": "4.0/1",
+    "tipo_jarabe": "No Sensible, No Pungente",
+    "brix": {
+      "min": 19.77,
+      "nom": 19.97,
+      "max": 20.17
+    },
+    "acidez_citrica": {
+      "min": 0.991,
+      "nom": 1.016,
+      "max": 1.041
+    },
+    "gasto_soda": {
+      "min": 15.48,
+      "nom": 15.88,
+      "max": 16.27
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.9,
+      "nom": 3.1,
+      "max": 3.3
+    },
+    "volumen_final": 701.31,
+    "peso_jarabe_sensorial": 63.92,
+    "peso_agua_sensorial": 236.13,
+    "peso_acidez_citrica": 10.8
+  },
+  {
+    "id": "powerade-uva",
+    "nombre": "Powerade Uva",
+    "relacion_agua_jarabe": "3.0/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": 15.7,
+      "nom": 15.9,
+      "max": 16.1
+    },
+    "acidez_citrica": {
+      "min": 0.797,
+      "nom": 0.818,
+      "max": 0.838
+    },
+    "gasto_soda": {
+      "min": 12.45,
+      "nom": 12.78,
+      "max": 13.09
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.9,
+      "nom": 3.1,
+      "max": 3.3
+    },
+    "volumen_final": 811.82,
+    "peso_jarabe_sensorial": 78.59,
+    "peso_agua_sensorial": 221.37,
+    "peso_acidez_citrica": 10.62
+  },
+  {
+    "id": "powerade-maracuya",
+    "nombre": "Powerade Maracuya",
+    "relacion_agua_jarabe": "4.0/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": 19.7,
+      "nom": 19.9,
+      "max": 20.1
+    },
+    "acidez_citrica": {
+      "min": 1.267,
+      "nom": 1.3,
+      "max": 1.332
+    },
+    "gasto_soda": {
+      "min": 19.8,
+      "nom": 20.31,
+      "max": 20.81
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.8,
+      "nom": 3.0,
+      "max": 3.2
+    },
+    "volumen_final": 701.08,
+    "peso_jarabe_sensorial": 63.9,
+    "peso_agua_sensorial": 236.13,
+    "peso_acidez_citrica": 10.79
+  },
+  {
+    "id": "powerade-manzana",
+    "nombre": "Powerade Manzana",
+    "relacion_agua_jarabe": "3.0/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": 16.25,
+      "nom": 16.45,
+      "max": 16.65
+    },
+    "acidez_citrica": {
+      "min": 1.562,
+      "nom": 1.602,
+      "max": 1.642
+    },
+    "gasto_soda": {
+      "min": 24.41,
+      "nom": 25.03,
+      "max": 25.66
+    },
+    "densidad": {
+      "min": 1.06435,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.3,
+      "nom": 2.5,
+      "max": 2.7
+    },
+    "volumen_final": 813.2,
+    "peso_jarabe_sensorial": 78.76,
+    "peso_agua_sensorial": 221.37,
+    "peso_acidez_citrica": 10.64
+  },
+  {
+    "id": "frugos-fresh-citrus-rf",
+    "nombre": "Frugos Fresh Citrus - RF",
+    "relacion_agua_jarabe": "3.2/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": 18.07,
+      "nom": 18.27,
+      "max": 18.47
+    },
+    "acidez_citrica": {
+      "min": 1.327,
+      "nom": 1.361,
+      "max": 1.395
+    },
+    "gasto_soda": {
+      "min": 20.73,
+      "nom": 21.27,
+      "max": 21.8
+    },
+    "densidad": {
+      "min": 1.07228,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.6,
+      "nom": 2.8,
+      "max": 3.0
+    },
+    "volumen_final": 438.14,
+    "peso_jarabe_sensorial": 75.57,
+    "peso_agua_sensorial": 224.89,
+    "peso_acidez_citrica": 10.72
+  },
+  {
+    "id": "frugos-fresh-punch",
+    "nombre": "Frugos Fresh Punch",
+    "relacion_agua_jarabe": "3.4/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": 18.93,
+      "nom": 19.13,
+      "max": 19.33
+    },
+    "acidez_citrica": {
+      "min": 1.319,
+      "nom": 1.353,
+      "max": 1.386
+    },
+    "gasto_soda": {
+      "min": 20.61,
+      "nom": 21.14,
+      "max": 21.66
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.7,
+      "nom": 2.9,
+      "max": 3.1
+    },
+    "volumen_final": 418.24,
+    "peso_jarabe_sensorial": 72.39,
+    "peso_agua_sensorial": 228.08,
+    "peso_acidez_citrica": 10.76
+  },
+  {
+    "id": "frugos-fresh-manzana",
+    "nombre": "Frugos Fresh Manzana",
+    "relacion_agua_jarabe": "3.0/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": 16.91,
+      "nom": 17.11,
+      "max": 17.31
+    },
+    "acidez_citrica": {
+      "min": 1.206,
+      "nom": 1.237,
+      "max": 1.268
+    },
+    "gasto_soda": {
+      "min": 18.84,
+      "nom": 19.33,
+      "max": 19.81
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.7,
+      "nom": 2.9,
+      "max": 3.1
+    },
+    "volumen_final": 535.84,
+    "peso_jarabe_sensorial": 78.96,
+    "peso_agua_sensorial": 221.37,
+    "peso_acidez_citrica": 10.67
+  },
+  {
+    "id": "frugos-fresh-tropical-fruit",
+    "nombre": "Frugos Fresh Tropical Fruit",
+    "relacion_agua_jarabe": "3.0/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": 18.86,
+      "nom": 19.06,
+      "max": 19.26
+    },
+    "acidez_citrica": {
+      "min": 1.566,
+      "nom": 1.606,
+      "max": 1.646
+    },
+    "gasto_soda": {
+      "min": 24.47,
+      "nom": 25.09,
+      "max": 25.72
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.5,
+      "nom": 2.7,
+      "max": 2.9
+    },
+    "volumen_final": 500.08,
+    "peso_jarabe_sensorial": 79.61,
+    "peso_agua_sensorial": 221.37,
+    "peso_acidez_citrica": 10.75
+  },
+  {
+    "id": "san-luis-exprim-pina-kion",
+    "nombre": "San Luis Exprim Piña-Kión",
+    "relacion_agua_jarabe": "3.0/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": 0.795,
+      "nom": 0.816,
+      "max": 0.836
+    },
+    "gasto_soda": {
+      "min": 12.42,
+      "nom": 12.75,
+      "max": 13.06
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "volumen_final": 500.0,
+    "peso_jarabe_sensorial": 73.88,
+    "peso_agua_sensorial": 221.37,
+    "peso_acidez_citrica": 10.67
+  },
+  {
+    "id": "san-luis-exprim-limon",
+    "nombre": "San Luis Exprim Limón",
+    "relacion_agua_jarabe": "3.0/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": 1.149,
+      "nom": 1.178,
+      "max": 1.208
+    },
+    "gasto_soda": {
+      "min": 17.95,
+      "nom": 18.41,
+      "max": 18.88
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.3,
+      "nom": 2.5,
+      "max": 2.7
+    },
+    "volumen_final": 500.0,
+    "peso_jarabe_sensorial": 74.28,
+    "peso_agua_sensorial": 221.37,
+    "peso_acidez_citrica": 10.04
+  },
+  {
+    "id": "san-luis-exprim-arandanos",
+    "nombre": "San Luis Exprim Arandanos",
+    "relacion_agua_jarabe": "4.4/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": 0.816,
+      "nom": 0.837,
+      "max": 0.858
+    },
+    "gasto_soda": {
+      "min": 12.75,
+      "nom": 13.08,
+      "max": 13.41
+    },
+    "densidad": {
+      "min": 1.00354,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.8,
+      "nom": 3.0,
+      "max": 3.2
+    },
+    "volumen_final": 370.37,
+    "peso_jarabe_sensorial": 55.01,
+    "peso_agua_sensorial": 240.5,
+    "peso_acidez_citrica": 10.03
+  },
+  {
+    "id": "san-luis-sin-gas-100",
+    "nombre": "San Luis Sin Gas 100%",
+    "relacion_agua_jarabe": "5.4/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "gasto_soda": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "volumen_final": 2000.0,
+    "peso_jarabe_sensorial": 46.13,
+    "peso_agua_sensorial": 249.04,
+    "peso_acidez_citrica": null
+  },
+  {
+    "id": "san-luis-sin-gas-200",
+    "nombre": "San Luis Sin Gas 200%",
+    "relacion_agua_jarabe": "5.4/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "gasto_soda": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "volumen_final": 2000.0,
+    "peso_jarabe_sensorial": 23.7,
+    "peso_agua_sensorial": 249.04,
+    "peso_acidez_citrica": null
+  },
+  {
+    "id": "san-luis-con-gas-maracuya-rf",
+    "nombre": "San Luis Con Gas Maracuya - RF",
+    "relacion_agua_jarabe": "4.4/1",
+    "tipo_jarabe": "Sensible, Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": 0.865,
+      "nom": 0.887,
+      "max": 0.91
+    },
+    "gasto_soda": {
+      "min": 13.52,
+      "nom": 13.86,
+      "max": 14.22
+    },
+    "densidad": {
+      "min": 1.00166,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 2.7,
+      "nom": 2.9,
+      "max": 3.1
+    },
+    "volumen_final": 370.37,
+    "peso_jarabe_sensorial": 54.91,
+    "peso_agua_sensorial": 240.5,
+    "peso_acidez_citrica": 10.02
+  },
+  {
+    "id": "san-luis-con-gas-manzana-rf",
+    "nombre": "San Luis Con Gas Manzana - RF",
+    "relacion_agua_jarabe": "4.4/1",
+    "tipo_jarabe": "No Sensible, No Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": 0.889,
+      "nom": 0.911,
+      "max": 0.934
+    },
+    "gasto_soda": {
+      "min": 13.89,
+      "nom": 14.23,
+      "max": 14.59
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": 3.0,
+      "nom": 3.2,
+      "max": 3.4
+    },
+    "volumen_final": 370.37,
+    "peso_jarabe_sensorial": 54.72,
+    "peso_agua_sensorial": 241.14,
+    "peso_acidez_citrica": 10.03
+  },
+  {
+    "id": "benedictino-100",
+    "nombre": "Benedictino 100%",
+    "relacion_agua_jarabe": "4.0/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "gasto_soda": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "volumen_final": 2000.0,
+    "peso_jarabe_sensorial": 59.05,
+    "peso_agua_sensorial": 235.13,
+    "peso_acidez_citrica": null
+  },
+  {
+    "id": "benedictino-200",
+    "nombre": "Benedictino 200%",
+    "relacion_agua_jarabe": "4.0/1",
+    "tipo_jarabe": "Sensible, No Pungente",
+    "brix": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_citrica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "gasto_soda": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "densidad": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "volumen_final": 2000.0,
+    "peso_jarabe_sensorial": 29.53,
+    "peso_agua_sensorial": 235.13,
+    "peso_acidez_citrica": null
+  },
+  {
+    "id": "fury",
+    "nombre": "Fury",
+    "relacion_agua_jarabe": "3.0/1",
+    "tipo_jarabe": "Carbonatado, Preservado",
+    "brix": {
+      "min": 40.4,
+      "nom": 40.7,
+      "max": 41.0
+    },
+    "acidez_citrica": {
+      "min": 1.4,
+      "nom": 1.6,
+      "max": 1.8
+    },
+    "gasto_soda": {
+      "min": 21.875,
+      "nom": 25.0,
+      "max": 28.125
+    },
+    "densidad": {
+      "min": 1.176,
+      "nom": 1.18,
+      "max": 1.184
+    },
+    "acidez_fosforica": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "ph": {
+      "min": null,
+      "nom": null,
+      "max": null
+    },
+    "volumen_final": 500.0,
+    "peso_jarabe_sensorial": 87.32,
+    "peso_agua_sensorial": 221.37,
+    "peso_acidez_citrica": 10.0
+  }
+]
